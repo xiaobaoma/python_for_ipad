@@ -8,4 +8,7 @@ dependencies:
     - scikit-learn
     - scipy
     - ipykernel
+    - seaborn
+    - pyecharts
+    - plotnine
   
